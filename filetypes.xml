@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping pattern="trigram" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="dreams" type="PLAIN_TEXT" />
       <mapping pattern="smtpgreeting" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="xt" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
