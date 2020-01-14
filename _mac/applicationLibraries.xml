@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="Bundled Protobuf Distribution">
       <CLASSES />
       <SOURCES>
