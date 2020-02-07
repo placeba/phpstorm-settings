@@ -5,8 +5,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081836440" />
-              <option name="times" value="19" />
+              <option name="last" value="1581086259826" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +21,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581083599856" />
-              <option name="times" value="195" />
+              <option name="last" value="1581086369193" />
+              <option name="times" value="200" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581082676863" />
-              <option name="times" value="280" />
+              <option name="last" value="1581086368633" />
+              <option name="times" value="284" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081276094" />
-              <option name="times" value="254" />
+              <option name="last" value="1581086268414" />
+              <option name="times" value="255" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,16 +309,16 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581082048481" />
-              <option name="times" value="8" />
+              <option name="last" value="1581086374792" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581081343797" />
-              <option name="times" value="24" />
+              <option name="last" value="1581086270093" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -327,6 +327,14 @@
             <ActionSummary>
               <option name="last" value="1581081307278" />
               <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Stop">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581086297037" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,7 +389,15 @@
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581079052126" />
+              <option name="last" value="1581086373233" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581086321836" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
