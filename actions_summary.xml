@@ -34,6 +34,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateProjectToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581497867787" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateRunToolWindow">
           <value>
             <ActionSummary>
@@ -397,8 +405,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581491726276" />
-              <option name="times" value="35" />
+              <option name="last" value="1581497865430" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +477,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581432633224" />
-              <option name="times" value="162" />
+              <option name="last" value="1581497873297" />
+              <option name="times" value="163" />
             </ActionSummary>
           </value>
         </entry>
