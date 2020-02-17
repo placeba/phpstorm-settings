@@ -53,8 +53,8 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930817340" />
-              <option name="times" value="1" />
+              <option name="last" value="1581940578326" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930021737" />
-              <option name="times" value="427" />
+              <option name="last" value="1581940554156" />
+              <option name="times" value="428" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930798907" />
-              <option name="times" value="60" />
+              <option name="last" value="1581940553512" />
+              <option name="times" value="61" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930812537" />
-              <option name="times" value="31" />
+              <option name="last" value="1581940560822" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -877,8 +877,8 @@
         <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930828502" />
-              <option name="times" value="1" />
+              <option name="last" value="1581940586616" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
