@@ -325,8 +325,8 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581491763406" />
-              <option name="times" value="2" />
+              <option name="last" value="1581925094676" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673764774" />
-              <option name="times" value="29" />
+              <option name="last" value="1581925089009" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673771045" />
-              <option name="times" value="50" />
+              <option name="last" value="1581925098396" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673678157" />
-              <option name="times" value="72" />
+              <option name="last" value="1581925092859" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
