@@ -69,8 +69,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027461013" />
-              <option name="times" value="62" />
+              <option name="last" value="1582039579580" />
+              <option name="times" value="63" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,16 +413,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027453791" />
-              <option name="times" value="112" />
+              <option name="last" value="1582039892015" />
+              <option name="times" value="114" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037617996" />
-              <option name="times" value="58" />
+              <option name="last" value="1582039500086" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037646877" />
-              <option name="times" value="263" />
+              <option name="last" value="1582039507189" />
+              <option name="times" value="274" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +949,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037624079" />
-              <option name="times" value="109" />
+              <option name="last" value="1582039505399" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
