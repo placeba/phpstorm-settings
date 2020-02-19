@@ -301,8 +301,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119061045" />
-              <option name="times" value="456" />
+              <option name="last" value="1582121479711" />
+              <option name="times" value="457" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119150058" />
-              <option name="times" value="110" />
+              <option name="last" value="1582121479215" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1053,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119152833" />
-              <option name="times" value="1024" />
+              <option name="last" value="1582121490553" />
+              <option name="times" value="1029" />
             </ActionSummary>
           </value>
         </entry>
