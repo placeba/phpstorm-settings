@@ -45,8 +45,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037749659" />
-              <option name="times" value="18" />
+              <option name="last" value="1582102751913" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097787706" />
-              <option name="times" value="1398" />
+              <option name="last" value="1582102759720" />
+              <option name="times" value="1401" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582096993591" />
-              <option name="times" value="63" />
+              <option name="last" value="1582102753198" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,32 +661,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097019420" />
-              <option name="times" value="112" />
+              <option name="last" value="1582102790332" />
+              <option name="times" value="115" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097028144" />
-              <option name="times" value="373" />
+              <option name="last" value="1582102793402" />
+              <option name="times" value="387" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097008573" />
-              <option name="times" value="53" />
+              <option name="last" value="1582102792718" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097018507" />
-              <option name="times" value="166" />
+              <option name="last" value="1582102795457" />
+              <option name="times" value="174" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +949,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097756941" />
-              <option name="times" value="118" />
+              <option name="last" value="1582102767927" />
+              <option name="times" value="120" />
             </ActionSummary>
           </value>
         </entry>
