@@ -893,8 +893,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126937957" />
-              <option name="times" value="52" />
+              <option name="last" value="1582131434249" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -1111,6 +1111,14 @@
             <ActionSummary>
               <option name="last" value="1581953384770" />
               <option name="times" value="51" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.usages.impl.UsageViewImpl$ShowSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582131427210" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
