@@ -213,8 +213,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582728374590" />
-              <option name="times" value="1263" />
+              <option name="last" value="1582730801370" />
+              <option name="times" value="1264" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1582729884393" />
-              <option name="times" value="3395" />
+              <option name="last" value="1582730770355" />
+              <option name="times" value="3396" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,16 +773,16 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582724408720" />
-              <option name="times" value="164" />
+              <option name="last" value="1582730772880" />
+              <option name="times" value="165" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582724400832" />
-              <option name="times" value="667" />
+              <option name="last" value="1582730773772" />
+              <option name="times" value="668" />
             </ActionSummary>
           </value>
         </entry>
@@ -1157,8 +1157,8 @@
         <entry key="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943601378" />
-              <option name="times" value="1" />
+              <option name="last" value="1582730797546" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
