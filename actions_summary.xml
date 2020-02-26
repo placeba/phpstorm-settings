@@ -333,8 +333,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582708105723" />
-              <option name="times" value="3114" />
+              <option name="last" value="1582719642017" />
+              <option name="times" value="3115" />
             </ActionSummary>
           </value>
         </entry>
@@ -487,6 +487,14 @@
             <ActionSummary>
               <option name="last" value="1581516925052" />
               <option name="times" value="15" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoTest">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582719640751" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1061,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582716899423" />
-              <option name="times" value="68" />
+              <option name="last" value="1582719663879" />
+              <option name="times" value="80" />
             </ActionSummary>
           </value>
         </entry>
@@ -1157,8 +1165,8 @@
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953385700" />
-              <option name="times" value="87" />
+              <option name="last" value="1582719664770" />
+              <option name="times" value="101" />
             </ActionSummary>
           </value>
         </entry>
