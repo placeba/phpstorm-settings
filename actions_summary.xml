@@ -141,8 +141,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582814611939" />
-              <option name="times" value="2539" />
+              <option name="last" value="1582816518506" />
+              <option name="times" value="2542" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,8 +309,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582814592068" />
-              <option name="times" value="652" />
+              <option name="last" value="1582816522290" />
+              <option name="times" value="654" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582804421630" />
-              <option name="times" value="131" />
+              <option name="last" value="1582816511750" />
+              <option name="times" value="132" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582728540291" />
-              <option name="times" value="88" />
+              <option name="last" value="1582816521238" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
@@ -1077,8 +1077,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582804457069" />
-              <option name="times" value="159" />
+              <option name="last" value="1582816523168" />
+              <option name="times" value="160" />
             </ActionSummary>
           </value>
         </entry>
