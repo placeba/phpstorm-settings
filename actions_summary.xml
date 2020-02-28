@@ -141,8 +141,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582875686337" />
-              <option name="times" value="2664" />
+              <option name="last" value="1582882993084" />
+              <option name="times" value="2670" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582819736510" />
-              <option name="times" value="354" />
+              <option name="last" value="1582883012855" />
+              <option name="times" value="356" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582875741757" />
-              <option name="times" value="134" />
+              <option name="last" value="1582882982741" />
+              <option name="times" value="135" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +469,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582820103977" />
-              <option name="times" value="170" />
+              <option name="last" value="1582882999005" />
+              <option name="times" value="171" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="ScrollFromSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1582816885205" />
-              <option name="times" value="45" />
+              <option name="last" value="1582883002353" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582637500971" />
-              <option name="times" value="58" />
+              <option name="last" value="1582882996149" />
+              <option name="times" value="59" />
             </ActionSummary>
           </value>
         </entry>
