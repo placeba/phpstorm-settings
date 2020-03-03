@@ -437,8 +437,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1583225075756" />
-              <option name="times" value="156" />
+              <option name="last" value="1583225400217" />
+              <option name="times" value="159" />
             </ActionSummary>
           </value>
         </entry>
@@ -693,8 +693,8 @@
         <entry key="ScrollFromSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1583224848618" />
-              <option name="times" value="50" />
+              <option name="last" value="1583225312016" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="com.intellij.ide.favoritesTreeView.actions.AddToFavoritesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583224860253" />
-              <option name="times" value="12" />
+              <option name="last" value="1583225321306" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,8 +1061,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583224069245" />
-              <option name="times" value="6" />
+              <option name="last" value="1583225415895" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
