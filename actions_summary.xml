@@ -325,8 +325,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1583220427240" />
-              <option name="times" value="760" />
+              <option name="last" value="1583221395852" />
+              <option name="times" value="761" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1583220426541" />
-              <option name="times" value="137" />
+              <option name="last" value="1583221500570" />
+              <option name="times" value="139" />
             </ActionSummary>
           </value>
         </entry>
@@ -997,8 +997,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582889251468" />
-              <option name="times" value="60" />
+              <option name="last" value="1583221398870" />
+              <option name="times" value="61" />
             </ActionSummary>
           </value>
         </entry>
@@ -1165,16 +1165,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1582875748284" />
-              <option name="times" value="1229" />
+              <option name="last" value="1583221695252" />
+              <option name="times" value="1237" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1582875747961" />
-              <option name="times" value="327" />
+              <option name="last" value="1583221765021" />
+              <option name="times" value="334" />
             </ActionSummary>
           </value>
         </entry>
