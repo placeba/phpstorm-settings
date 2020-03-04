@@ -493,8 +493,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312048145" />
-              <option name="times" value="151" />
+              <option name="last" value="1583321374349" />
+              <option name="times" value="152" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1583314752104" />
-              <option name="times" value="2" />
+              <option name="last" value="1583321572840" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1037,8 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312048723" />
-              <option name="times" value="950" />
+              <option name="last" value="1583321388792" />
+              <option name="times" value="958" />
             </ActionSummary>
           </value>
         </entry>
@@ -1341,8 +1341,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583314753487" />
-              <option name="times" value="2" />
+              <option name="last" value="1583321543171" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
