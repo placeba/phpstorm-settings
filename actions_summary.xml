@@ -485,8 +485,8 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312096881" />
-              <option name="times" value="30" />
+              <option name="last" value="1583326083319" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1583323378025" />
-              <option name="times" value="241" />
+              <option name="last" value="1583326230570" />
+              <option name="times" value="242" />
             </ActionSummary>
           </value>
         </entry>
@@ -690,6 +690,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="PhpListenDebugAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583326104495" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="PreviousTab">
           <value>
             <ActionSummary>
@@ -709,8 +717,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583323359543" />
-              <option name="times" value="39" />
+              <option name="last" value="1583326076890" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -750,6 +758,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1583155065623" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Resume">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583326181243" />
               <option name="times" value="3" />
             </ActionSummary>
           </value>
@@ -818,6 +834,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="StepInto">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583326178295" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Stop">
           <value>
             <ActionSummary>
@@ -869,24 +893,24 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1583321572840" />
-              <option name="times" value="5" />
+              <option name="last" value="1583326135772" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312143960" />
-              <option name="times" value="197" />
+              <option name="last" value="1583326158356" />
+              <option name="times" value="203" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312144815" />
-              <option name="times" value="744" />
+              <option name="last" value="1583326172363" />
+              <option name="times" value="755" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +925,8 @@
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1583308551531" />
-              <option name="times" value="399" />
+              <option name="last" value="1583326171989" />
+              <option name="times" value="407" />
             </ActionSummary>
           </value>
         </entry>
@@ -1157,8 +1181,8 @@
         <entry key="com.intellij.ide.util.FileStructurePopup$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583310293398" />
-              <option name="times" value="19" />
+              <option name="last" value="1583326085415" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -1285,8 +1309,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1583323363237" />
-              <option name="times" value="30" />
+              <option name="last" value="1583326081136" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -1341,8 +1365,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583321543171" />
-              <option name="times" value="3" />
+              <option name="last" value="1583326108697" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
