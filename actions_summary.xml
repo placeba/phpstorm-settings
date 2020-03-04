@@ -109,8 +109,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312417345" />
-              <option name="times" value="121" />
+              <option name="last" value="1583313125007" />
+              <option name="times" value="122" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1583310938094" />
-              <option name="times" value="4252" />
+              <option name="last" value="1583313737833" />
+              <option name="times" value="4266" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1583312435345" />
-              <option name="times" value="4184" />
+              <option name="last" value="1583313738437" />
+              <option name="times" value="4197" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583256112704" />
-              <option name="times" value="37" />
+              <option name="last" value="1583313034714" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="ScrollFromSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1583256588885" />
-              <option name="times" value="57" />
+              <option name="last" value="1583313760026" />
+              <option name="times" value="59" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1583310913236" />
-              <option name="times" value="329" />
+              <option name="last" value="1583313765229" />
+              <option name="times" value="335" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581347628966" />
-              <option name="times" value="1" />
+              <option name="last" value="1583313725879" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583256253783" />
-              <option name="times" value="22" />
+              <option name="last" value="1583313774855" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -1285,8 +1285,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1583222491790" />
-              <option name="times" value="23" />
+              <option name="last" value="1583313037568" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
