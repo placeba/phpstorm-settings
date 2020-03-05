@@ -29,8 +29,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1583415442585" />
-              <option name="times" value="411" />
+              <option name="last" value="1583416373135" />
+              <option name="times" value="412" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1583415411208" />
-              <option name="times" value="139" />
+              <option name="last" value="1583416451961" />
+              <option name="times" value="143" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorIndentSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582723200925" />
-              <option name="times" value="4" />
+              <option name="last" value="1583416370228" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1583415351590" />
-              <option name="times" value="262" />
+              <option name="last" value="1583416332232" />
+              <option name="times" value="263" />
             </ActionSummary>
           </value>
         </entry>
@@ -877,8 +877,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1583415394631" />
-              <option name="times" value="468" />
+              <option name="last" value="1583416303686" />
+              <option name="times" value="474" />
             </ActionSummary>
           </value>
         </entry>
@@ -1013,8 +1013,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583313774855" />
-              <option name="times" value="29" />
+              <option name="last" value="1583416466563" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -1189,8 +1189,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583225415895" />
-              <option name="times" value="8" />
+              <option name="last" value="1583416480646" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
