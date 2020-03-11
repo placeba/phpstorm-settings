@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583932156666" />
-              <option name="times" value="4359" />
+              <option name="last" value="1583933109818" />
+              <option name="times" value="4360" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1583918873355" />
-              <option name="times" value="245" />
+              <option name="last" value="1583933104379" />
+              <option name="times" value="246" />
             </ActionSummary>
           </value>
         </entry>
@@ -1157,8 +1157,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583911353660" />
-              <option name="times" value="16" />
+              <option name="last" value="1583933108416" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -1277,8 +1277,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583917717003" />
-              <option name="times" value="244" />
+              <option name="last" value="1583933186979" />
+              <option name="times" value="245" />
             </ActionSummary>
           </value>
         </entry>
