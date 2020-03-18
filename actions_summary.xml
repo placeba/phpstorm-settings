@@ -109,8 +109,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1584538354173" />
-              <option name="times" value="188" />
+              <option name="last" value="1584540058711" />
+              <option name="times" value="203" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1584538483467" />
-              <option name="times" value="241" />
+              <option name="last" value="1584539348398" />
+              <option name="times" value="242" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1584538388622" />
-              <option name="times" value="417" />
+              <option name="last" value="1584539920588" />
+              <option name="times" value="422" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="QuickList.Mercurial">
           <value>
             <ActionSummary>
-              <option name="last" value="1584113872441" />
-              <option name="times" value="8" />
+              <option name="last" value="1584540038293" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="Vcs.ShowTabbedFileHistory">
           <value>
             <ActionSummary>
-              <option name="last" value="1584113873154" />
-              <option name="times" value="6" />
+              <option name="last" value="1584540039694" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,8 +1133,8 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1584538527150" />
-              <option name="times" value="1552" />
+              <option name="last" value="1584539351139" />
+              <option name="times" value="1553" />
             </ActionSummary>
           </value>
         </entry>
@@ -1341,8 +1341,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1584457202342" />
-              <option name="times" value="252" />
+              <option name="last" value="1584540050091" />
+              <option name="times" value="254" />
             </ActionSummary>
           </value>
         </entry>
