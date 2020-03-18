@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1584535677585" />
-              <option name="times" value="5820" />
+              <option name="last" value="1584537080735" />
+              <option name="times" value="5823" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1584450715933" />
-              <option name="times" value="271" />
+              <option name="last" value="1584537075585" />
+              <option name="times" value="273" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1584535781772" />
-              <option name="times" value="413" />
+              <option name="last" value="1584537167199" />
+              <option name="times" value="414" />
             </ActionSummary>
           </value>
         </entry>
