@@ -125,8 +125,8 @@
         <entry key="CloseContent">
           <value>
             <ActionSummary>
-              <option name="last" value="1583336168462" />
-              <option name="times" value="2" />
+              <option name="last" value="1584628763013" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="ScrollFromSource">
           <value>
             <ActionSummary>
-              <option name="last" value="1584522494764" />
-              <option name="times" value="102" />
+              <option name="last" value="1584628688514" />
+              <option name="times" value="103" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,32 +989,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1584450775345" />
-              <option name="times" value="267" />
+              <option name="last" value="1584628754055" />
+              <option name="times" value="281" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1584615643172" />
-              <option name="times" value="967" />
+              <option name="last" value="1584628755814" />
+              <option name="times" value="1034" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1584099628659" />
-              <option name="times" value="127" />
+              <option name="last" value="1584628760548" />
+              <option name="times" value="141" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1584615642605" />
-              <option name="times" value="522" />
+              <option name="last" value="1584628755502" />
+              <option name="times" value="573" />
             </ActionSummary>
           </value>
         </entry>
@@ -1317,8 +1317,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1584616528123" />
-              <option name="times" value="204" />
+              <option name="last" value="1584628765896" />
+              <option name="times" value="205" />
             </ActionSummary>
           </value>
         </entry>
