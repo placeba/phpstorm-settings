@@ -109,8 +109,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1584616698600" />
-              <option name="times" value="211" />
+              <option name="last" value="1584617630063" />
+              <option name="times" value="212" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1584616685720" />
-              <option name="times" value="437" />
+              <option name="last" value="1584617613352" />
+              <option name="times" value="438" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1584615551458" />
-              <option name="times" value="75" />
+              <option name="last" value="1584617552885" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -1405,8 +1405,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1584615553822" />
-              <option name="times" value="92" />
+              <option name="last" value="1584617560134" />
+              <option name="times" value="94" />
             </ActionSummary>
           </value>
         </entry>
@@ -1429,8 +1429,8 @@
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1584616532803" />
-              <option name="times" value="358" />
+              <option name="last" value="1584617550826" />
+              <option name="times" value="365" />
             </ActionSummary>
           </value>
         </entry>
