@@ -4,13 +4,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="clm" value="console.log(&quot;$METHOD$&quot;);" description="console.log(jsMethodName);" toReformat="false" toShortenFQNames="true">
+  <template name="clm" value="console.log('$METHOD$');" description="console.log(jsMethodName);" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="clc" value="console.log(&quot;$CLIPBOARD$&quot;, $CLIPBOARD$);" description="console.log(clipboard())" toReformat="false" toShortenFQNames="true">
+  <template name="clc" value="console.log('$CLIPBOARD$', $CLIPBOARD$);" description="console.log(clipboard())" toReformat="false" toShortenFQNames="true">
     <variable name="CLIPBOARD" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
