@@ -1,26 +1,21 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="9e582d38-c6a5-4df0-9bee-b5eaebd6d3f1" name="PHP 7.1" home="/usr/local/opt/php@7.1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="859d2e7a-5475-492f-86f0-4e1db1bb7a68" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.33/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.30_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.30_1/bin/php" path_separator=":" version="7.1.30">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.33/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.33/bin/php" path_separator=":" version="7.2.33">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.30_1/share/php@7.1/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.33/share/php@7.2/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+            <debugger_info debugger="xdebug" debugger_version="2.9.7">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -55,7 +50,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -75,6 +69,7 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
