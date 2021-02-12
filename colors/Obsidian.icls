@@ -1,13 +1,13 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2019-12-03T13:42:53</property>
+    <property name="modified">2021-02-12T09:15:28</property>
   </metaInfo>
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DOCUMENTATION_COLOR" value="" />
     <option name="FILESTATUS_MODIFIED" value="6a76fc" />
     <option name="FILESTATUS_RENAMED" value="67f86f" />
     <option name="GUTTER_BACKGROUND" value="293134" />
@@ -120,6 +120,12 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="9cb4aa" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="9999ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -336,10 +342,7 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value>
-        <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="f5f7f0" />
-      </value>
+      <value />
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
