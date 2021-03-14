@@ -40,10 +40,14 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="RECENT_FILES_LIMIT" value="150" />
     <option name="RECENT_LOCATIONS_LIMIT" value="150" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
