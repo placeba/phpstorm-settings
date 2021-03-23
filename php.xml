@@ -2,20 +2,20 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="9e582d38-c6a5-4df0-9bee-b5eaebd6d3f1" name="PHP 7.1" home="/usr/local/opt/php@7.1/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="859d2e7a-5475-492f-86f0-4e1db1bb7a68" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.33/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="859d2e7a-5475-492f-86f0-4e1db1bb7a68" name="PHP 7.2" home="/usr/local/opt/php@7.2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.33/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.33/bin/php" path_separator=":" version="7.2.33">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php" path_separator=":" version="7.2.34">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.33/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.34_1/share/php@7.2/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.7">
+            <debugger_info debugger="xdebug" debugger_version="3.0.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
