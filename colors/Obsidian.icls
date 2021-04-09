@@ -1,7 +1,7 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2021-02-12T09:18:33</property>
+    <property name="modified">2021-04-09T10:54:52</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="17" />
@@ -11,7 +11,7 @@
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DOCUMENTATION_COLOR" value="" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_MODIFIED" value="6a76fc" />
     <option name="FILESTATUS_RENAMED" value="67f86f" />
     <option name="GUTTER_BACKGROUND" value="293134" />
