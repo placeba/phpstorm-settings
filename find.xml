@@ -17,8 +17,8 @@
     <mask>*.sql</mask>
     <mask>config.php</mask>
     <mask>ajax.php</mask>
-    <mask>*.js</mask>
     <mask>template.php</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
