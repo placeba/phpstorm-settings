@@ -14,11 +14,11 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>index.php</mask>
-    <mask>*.sql</mask>
     <mask>config.php</mask>
     <mask>ajax.php</mask>
     <mask>template.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
