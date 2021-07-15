@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="dreams" type="PLAIN_TEXT" />
-      <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="trigram" type="PLAIN_TEXT" />
       <mapping pattern="smtpgreeting" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
@@ -16,6 +15,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".hgignore" approved="true" type="HgIgnore file" />
     </extensionMap>
   </component>
 </application>
