@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
