@@ -29,11 +29,6 @@
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
-      <entry key="Merge">
-        <PlaceSettings>
-          <option name="USE_SOFT_WRAPS" value="true" />
-        </PlaceSettings>
-      </entry>
     </option>
   </component>
 </application>
