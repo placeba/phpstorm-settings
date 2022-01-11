@@ -12,6 +12,32 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -20,6 +46,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
