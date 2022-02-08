@@ -4,6 +4,7 @@
       <NestingRule child-file-suffix=".js" parent-file-suffix=".coffee" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".coffee" />
       <NestingRule child-file-suffix=".map" parent-file-suffix=".coffee" />
+      <NestingRule child-file-suffix=".bundle.css" parent-file-suffix=".css" />
       <NestingRule child-file-suffix=".bundle.css.map" parent-file-suffix=".css" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".css" />
       <NestingRule child-file-suffix=".map.bundle.css" parent-file-suffix=".css" />
