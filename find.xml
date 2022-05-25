@@ -17,11 +17,11 @@
     <mask>ajax.php</mask>
     <mask>template.php</mask>
     <mask>*.css</mask>
-    <mask>*.sql</mask>
     <mask>module_updater.php</mask>
     <mask>index.js</mask>
     <mask>*.js</mask>
     <mask>.settings.php</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
