@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,12 +21,12 @@
     <mask>config.php</mask>
     <mask>ajax.php</mask>
     <mask>template.php</mask>
-    <mask>*.css</mask>
     <mask>module_updater.php</mask>
     <mask>index.js</mask>
     <mask>*.js</mask>
     <mask>.settings.php</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
+    <mask>*.css</mask>
   </component>
 </application>
