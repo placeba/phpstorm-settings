@@ -23,5 +23,6 @@
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
+    <mask>*.svg</mask>
   </component>
 </application>
