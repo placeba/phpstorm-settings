@@ -24,7 +24,7 @@
     <mask>.settings.php</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
-    <mask>*.css</mask>
     <mask>*.svg</mask>
+    <mask>*.css</mask>
   </component>
 </application>
