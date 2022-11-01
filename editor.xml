@@ -7,11 +7,6 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
-    <option name="disabledCodeVisionProviderIds">
-      <set>
-        <option value="references" />
-      </set>
-    </option>
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
