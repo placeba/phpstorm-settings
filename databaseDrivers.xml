@@ -10,6 +10,9 @@
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
+      </library>
     </driver>
     <driver id="1ab042c6-276f-4806-80d7-5686e7582d0b" name="push-server driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
       <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
