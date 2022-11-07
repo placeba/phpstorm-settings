@@ -34,7 +34,7 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
