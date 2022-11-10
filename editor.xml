@@ -2,11 +2,12 @@
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
-        <entry key="inheritors" value="Default" />
+        <entry key="inheritors" value="Top" />
         <entry key="references" value="Right" />
-        <entry key="vcs.code.vision" value="Default" />
+        <entry key="vcs.code.vision" value="Top" />
       </map>
     </option>
+    <option name="defaultPosition" value="Right" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -34,7 +35,7 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>

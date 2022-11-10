@@ -69,6 +69,9 @@
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="shift f5" />
