@@ -2,9 +2,9 @@
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
-        <entry key="inheritors" value="Top" />
+        <entry key="inheritors" value="Right" />
         <entry key="references" value="Right" />
-        <entry key="vcs.code.vision" value="Top" />
+        <entry key="vcs.code.vision" value="Right" />
       </map>
     </option>
     <option name="defaultPosition" value="Right" />
@@ -39,9 +39,19 @@
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
-          <option name="showForInferredParameters" value="false" />
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
+      <SQL.sql.join.cardinality.hints>
+        <Settings>
+          <option name="showForFullJoin" value="true" />
+          <option name="showForInnerJoin" value="true" />
+          <option name="showForLeftJoin" value="true" />
+          <option name="showForRightJoin" value="true" />
+        </Settings>
+      </SQL.sql.join.cardinality.hints>
     </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
