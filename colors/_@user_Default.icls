@@ -1,12 +1,18 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-09-21T18:06:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-09-21T19:00:53</property>
+    <property name="modified">2022-12-20T11:51:48</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
