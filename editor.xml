@@ -8,6 +8,22 @@
       </map>
     </option>
     <option name="defaultPosition" value="Right" />
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+      </set>
+    </option>
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -35,7 +51,7 @@
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
